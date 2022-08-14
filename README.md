@@ -16,15 +16,15 @@
         </ul>
       </div>
       <div class="center">
-          <h1> eProfile Website</h1>
+          <h1> My Website </h1>
             <div id="info">
               <h2> Personal Information </h2>
             </div>
             <img src="ITprofilepicture.jpg" alt="Photo of myself" style="height:320px;width:270px;">
             <ul class="detail">
-              <li> n: Jaideep Singh </li>
-              <li> s#: s3948197 </li>
-              <li> @: <a href="mailto:s3948197@student.rmit.edu.au"> s3948197@student.rmit.edu.au </a></li>
+              <li> name: Jaideep Singh </li>
+              <li> student number: s3948197 </li>
+              <li> email: <a href="mailto:s3948197@student.rmit.edu.au"> s3948197@student.rmit.edu.au </a></li>
             </ul>
                 <h3> About Me </h3>
                   <p> My nationality is Australian, but ethnically I am from India, and I speak both Punjabi and English. I graduated high school last year and am currently completing a Bachelor of Information Technology. An interesting fact about me is that both my grandparents were born in Pakistan, and that some of my great grandfathers migrated from Iran and Afghanistan. Other facts about me are that I lift weights, am a fan of the UFC (GSP being my goat), and my favourite pastime is going out and drinking.
