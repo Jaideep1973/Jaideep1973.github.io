@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title> Jaideep Singh Website </title>
@@ -156,7 +155,4 @@ The hardware is very feasible to gather, the software is also easy to install an
                 <h3> Outcome </h3>
                   <p> If the project is successful, people will be more diligent and aware of the dangers in their surroundings, being more vigilant will lead to amazing impacts. People will no longer place themselves in areas with high crime unknowingly, and people can make better informed decisions on where to move when looking for property. This app would also be a fantastic opportunity for me to build experience in app development and using a variety of frameworks.
                   </p>
-    </div>
-
-  </body>
-</html>
+    
