@@ -68,7 +68,9 @@
                     <tr>
                       <th style="text-align: right;"> <img src="MYERSINFO.PNG" alt="Myers-Briggs Indicator" style="width: 750px;"></th>
                       <img src="Myerstest2.PNG" alt="Additional Myers Test Info">
-                      <th><img src="learningtest.PNG" alt="Learning Style information" style="width: 750px;"> <img src="b52.PNG" alt="Big Five Personality Test" style="width: 650px;"></th> <img src="b53.PNG" alt="More personality info">
+                      <th><img src="learningtest.PNG" alt="Learning Style information" style="width: 750px;">
+                        <img src="b52.PNG" alt="Big Five Personality Test" style="width: 650px;"></th> 
+                      <img src="b53.PNG" alt="More personality info">
                     </tr>
                   </table>
                 <h3> What the test results mean for me </h3>
