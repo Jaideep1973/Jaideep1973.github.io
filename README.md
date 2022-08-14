@@ -45,7 +45,7 @@
             <div id="ideal">
               <h2> My Ideal Job </h2>
             </div>
-                    <img src="job1.PNG" alt="Ideal Job">
+                    <img src="Job1.PNG" alt="Ideal Job">
                     <img src="job3.PNG" alt="More Description of Ideal Job" style="width: 600px;">
                     <p class="joblink"><a href=" https://www.seek.com.au/job/58004069?type=promoted#sol=c636a173ea7c6629946e4657b7261916c5a26c8b" target="_blank" style=""> Full Job Description </a></p>
                 <h3> Description </h3>
