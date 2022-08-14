@@ -45,8 +45,8 @@
             <div id="ideal">
               <h2> My Ideal Job </h2>
             </div>
-                    <img src="Job1" alt="Ideal Job">
-                    <img src="Job3" alt="More Description of Ideal Job" style="width: 600px;">
+                    <img src="job1.PNG" alt="Ideal Job">
+                    <img src="job3.PNG" alt="More Description of Ideal Job" style="width: 600px;">
                     <p class="joblink"><a href=" https://www.seek.com.au/job/58004069?type=promoted#sol=c636a173ea7c6629946e4657b7261916c5a26c8b" target="_blank" style=""> Full Job Description </a></p>
                 <h3> Description </h3>
                   <p> The above position is of a Senior React developer to work alongside a small team of 14 other developers on a cloud-based Freight management system, with a head office in Richmond. The description calls for one on one client work with stakeholders to create new applications. The occupation is specifically appealing to me for many reasons, firstly it talks about a hybrid remote work model, meaning that I can choose to work from home. Work life balance is especially important to me, I would rather be with my family rather than spending most of my day on lengthy commutes to a corporate office daily. The other aspect that captivated me was the client work, I like being interpersonal with people rather than following menial tasks, such this allows room for creative thinking and adding personality into my work and career.
